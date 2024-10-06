@@ -1,0 +1,17 @@
+.radio-buttons-container {
+    padding: 50px;
+    border: 1px solid #007bff;
+    border-radius: 4px;
+    max-width: 300px;
+    margin: 50px auto;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+    cursor: pointer;
+}
